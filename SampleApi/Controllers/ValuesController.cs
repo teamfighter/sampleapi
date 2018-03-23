@@ -13,7 +13,7 @@ namespace SampleApi.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "Hello World", "value3" };
+            return new string[] { "Hello World", "value5" };
         }
 
         // GET api/values/5
